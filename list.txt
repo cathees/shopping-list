@@ -1,3 +1,6 @@
 äpfel
 birnen
 leberkäs
+bier
+chips
+haribo
