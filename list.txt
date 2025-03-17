@@ -2,9 +2,6 @@
 birnen
 orangen
 leberkäs
-  - normal
-  - käse
-  -chili
 bier
 chips
 haribo
