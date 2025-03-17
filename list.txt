@@ -1,6 +1,9 @@
 äpfel
 birnen
 leberkäs
+  - normal
+  - käse
+  -chili
 bier
 chips
 haribo
