@@ -6,4 +6,8 @@ leberkäs
 bier
 chips
 haribo
+<<<<<<< HEAD
+salat
+=======
 drachenfrucht
+>>>>>>> master
